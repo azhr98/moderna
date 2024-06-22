@@ -58,11 +58,17 @@ a:hover {
  
  /* smartphone */
  @media screen and (max-width: 480px) {
-    
+
+     * {
+        background-size:cover;
+         background-repeat:norepeat;
+    }
+     
     nav {
          margin-top:40px;
     }
     h1 {
+        font-size:10px;
          padding-right:20px;
      }
 
