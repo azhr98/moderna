@@ -61,7 +61,7 @@ a:hover {
 
      * {
         background-size:cover;
-         background-repeat:norepeat;
+         background-repeat:no-repeat;
     }
      
     nav {
