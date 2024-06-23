@@ -271,6 +271,13 @@ footer {
         flex-direction: column;
     }
 
+     .yokonarabi-tx img{
+    margin-left:40px;
+    margin-right:50px;
+    width:90%;
+    height:90%;
+}
+
     .yokonarabi-t {
         display:flex;
         flex-direction: column;
