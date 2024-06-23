@@ -266,6 +266,11 @@ footer {
         border-radius:15px;
     }
 
+      .yokonarabi-tx {
+        display:flex;
+        flex-direction: column;
+    }
+
     .yokonarabi-t {
         display:flex;
         flex-direction: column;
