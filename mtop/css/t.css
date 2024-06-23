@@ -172,6 +172,25 @@ footer {
     background-color:beige;
 }
 
+.btna {
+    font:serif;
+    background-color:#8b4513;
+    color:white;
+    margin:0 auto;
+    padding:15px;
+    display:flex;
+    justify-content:center;
+    border-width:0;
+    border-radius:30px;
+}
+.btna:hover{
+   background-color: #4d260b;
+}
+.txsp {
+    margin-top:30px;
+}
+
+
 /* imggrid?
 .wrapper1 {
     display: grid;
@@ -184,6 +203,12 @@ footer {
  @media screen and (max-width: 480px) {
     * {
         margin:0;
+    }
+
+    body {
+        background-image:url("../../i_images/backm.jpg");
+    background-color:rgba(255,255,255,0.4);
+    background-blend-mode:lighten;
     }
 
     .navv a {
